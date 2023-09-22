@@ -4,7 +4,7 @@ using System.Security.Claims;
 using System.Text;
 using UsuarioApi.Models;
 
-namespace UsuarioApi.Service
+namespace UsuarioApi.Services
 {
     public class TokenService
     {

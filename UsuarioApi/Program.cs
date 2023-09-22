@@ -7,7 +7,7 @@ using System.Text;
 using UsuarioApi;
 using UsuarioApi.Authorization;
 using UsuarioApi.Models;
-using UsuarioApi.Service;
+using UsuarioApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

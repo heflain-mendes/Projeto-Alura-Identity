@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using UsuarioApi.Data.DTOs;
 using UsuarioApi.Models;
-using UsuarioApi.Service;
+using UsuarioApi.Services;
 
 namespace UsuarioApi.Controllers
 {

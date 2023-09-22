@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using UsuarioApi.Data.DTOs;
 using UsuarioApi.Models;
 
-namespace UsuarioApi.Service
+namespace UsuarioApi.Services
 {
 
     public class UsuarioService
